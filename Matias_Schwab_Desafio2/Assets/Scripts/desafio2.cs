@@ -21,6 +21,7 @@ public class desafio2 : MonoBehaviour
         HerirJugador();
 
         Debug.Log(vida);
+        Debug.Log("hola");
              
     }
 
